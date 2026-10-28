@@ -1,0 +1,24 @@
+CRÉDITOS Y LICENCIAS — Sonidos de Tarapoto
+===========================================
+
+La pista "assets/tarapoto.mp3" es una mezcla de las siguientes obras,
+todas con licencia libre. La mezcla resultante se distribuye bajo
+CC BY-SA 4.0 (por la cláusula "compartir igual" de las fuentes).
+
+1) Catarata (sonido de agua)
+   Obra : «Catarata Pacchacc»
+   Autor: Yupanasimi
+   Lic. : CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
+   Fuente: https://commons.wikimedia.org/wiki/File:Catarata_Pacchacc.flac
+
+2) Música típica (sikus Malta y bombo)
+   Obra : «Interpretación del tema "29 de setiembre" — Maqueta ejecutada con pareja de sikus Malta y bombo»
+   Autor: Abel Christian Apaza Amanqui
+   Lic. : CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0
+   Fuente: https://commons.wikimedia.org/wiki/File:Interpretaci%C3%B3n_del_tema_%2229_de_setiembre%22_-_Maqueta_ejecutada_con_pareja_de_sikus_Malta_y_bombo.wav
+
+3) Lluvia
+   Obra : «Listening to Raindrops (large loop)»
+   Autor: NASA
+   Lic. : Dominio público
+   Fuente: https://commons.wikimedia.org/wiki/File:Listening_to_Raindrops_(1035382_-_large_loop).mp3
